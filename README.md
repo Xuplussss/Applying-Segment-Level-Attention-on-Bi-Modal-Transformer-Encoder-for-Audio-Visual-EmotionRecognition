@@ -1,4 +1,4 @@
-# Applying-Segment-Level-Attention-on-Bi-Modal-Transformer-Encoder-for-Audio-Visual-Emotion-Recognitio
+# Applying Segment Level Attention on Bi-Modal Transformer Encoder for Audio-Visual Emotion Recognition
 
 This package provides training code for the audio-visual emotion recognition paper. If you use this codebase in your experiments please cite: 
 
