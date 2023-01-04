@@ -9,3 +9,18 @@ This package provides training code for the audio-visual emotion recognition pap
 - transformers >= 4.24.0
 - PyTorch >= 1.13.0
 - pytorch-lightning
+
+## Audio feature extraction model
+```
+cd pretrained_wav2vec
+```
+
+## Facial feature extraction model
+```
+cd pretrained_VGG
+```
+
+## Fusion & emotion recognition
+```
+cd Bimodal_Transformer_encoder
+```
