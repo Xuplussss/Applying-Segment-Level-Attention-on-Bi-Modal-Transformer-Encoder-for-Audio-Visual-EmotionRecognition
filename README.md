@@ -1,7 +1,5 @@
 # Applying Segment Level Attention on Bi-Modal Transformer Encoder for Audio-Visual Emotion Recognition
 
-This package provides training code for the audio-visual emotion recognition paper. If you use this codebase in your experiments please cite: 
-
 !["our proposed system frameworks"](https://github.com/Xuplussss/Applying-Segment-Level-Attention-on-Bi-Modal-Transformer-Encoder-for-Audio-Visual-EmotionRecognition/blob/main/SystemFrameworks.png?raw=true)
 
 ## Requirements
@@ -12,15 +10,22 @@ This package provides training code for the audio-visual emotion recognition pap
 
 ## Audio feature extraction model
 ```
-cd pretrained_wav2vec
+cd audio_feature_extraction
 ```
 
 ## Facial feature extraction model
 ```
-cd pretrained_VGG
+cd visual_feature_extraction
 ```
 
 ## Fusion & emotion recognition
 ```
 cd Bimodal_Transformer_encoder
+```
+
+## Reference
+This package provides training code for the audio-visual emotion recognition paper. If you use this codebase in your experiments please cite: 
+
+```
+
 ```
