@@ -1,6 +1,6 @@
 # Applying Segment Level Attention on Bi-Modal Transformer Encoder for Audio-Visual Emotion Recognition
 
-!["our proposed system frameworks"](https://github.com/Xuplussss/Applying-Segment-Level-Attention-on-Bi-Modal-Transformer-Encoder-for-Audio-Visual-EmotionRecognition/blob/main/SystemFrameworks.png?raw=true)
+!["our proposed system frameworks"](https://github.com/Xuplussss/Applying-Segment-Level-Attention-on-Bi-Modal-Transformer-Encoder-for-Audio-Visual-EmotionRecognition/blob/main/SystemFrameworks.png#pic_center)
 
 ## Requirements
 - Python >= 3.7
