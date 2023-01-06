@@ -2,7 +2,7 @@
 
 !["our feature extraction frameworks"](https://github.com/Xuplussss/Applying-Segment-Level-Attention-on-Bi-Modal-Transformer-Encoder-for-Audio-Visual-EmotionRecognition/blob/main/visual_feature_extraction/VGGNet.png?raw=true)
 
-## prepare data
+## Prepare your data
 
 You need to prepare your file-tuning data as '.h5' file and copy it into 'data/data.h5'. We follow the same data format as 'FER2013'. The file content includes:
 
