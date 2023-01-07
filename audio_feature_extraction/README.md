@@ -1,4 +1,7 @@
 # Fine-tuning Wav2vec 2.0 for SER
+
+!["our proposed system frameworks"](https://github.com/Xuplussss/Applying-Segment-Level-Attention-on-Bi-Modal-Transformer-Encoder-for-Audio-Visual-EmotionRecognition/blob/main/audio_feature_extraction/wav2vec2.png?raw=true)
+
 Official implementation for the paper [Exploring Wav2vec 2.0 fine-tuning for improved speech emotion recognition](http://arxiv.org/abs/2110.06309).
 Submitted to ICASSP 2022.
 
