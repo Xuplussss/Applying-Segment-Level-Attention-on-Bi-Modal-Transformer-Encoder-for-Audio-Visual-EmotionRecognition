@@ -27,5 +27,11 @@ cd Bimodal_Transformer_encoder
 This package provides training code for the audio-visual emotion recognition paper. If you use this codebase in your experiments please cite: 
 
 ```
-
+@article{hsu2023applying,
+  title={Applying Segment-Level Attention on Bi-modal Transformer Encoder for Audio-Visual Emotion Recognition},
+  author={Hsu, Jia-Hao and Wu, Chung-Hsien},
+  journal={IEEE Transactions on Affective Computing},
+  year={2023},
+  publisher={IEEE}
+}
 ```
